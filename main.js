@@ -52,7 +52,7 @@ app.listen(3000, (errors) => {
   if (errors) {
     console.log(errors);
   } else {
-    console.log("Server started at Port 3000.");
+    console.log("Server Started at Port 3000.");
   }
 }); 
 
